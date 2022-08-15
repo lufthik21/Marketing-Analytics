@@ -6,7 +6,7 @@ Company 'XYZ' has hired you as a Data Scientist and you've been told by the Chie
 
 The dataset consists of 2,206 customers of XYZ company with data on:
 
-Campaign successes/failures
-Product preferences
-Channel performances
-Customer profiles based on the spending habits
+* Campaign successes/failures
+* Product preferences
+* Channel performances
+* Customer profiles based on the spending habits
